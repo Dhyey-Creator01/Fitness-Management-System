@@ -1,5 +1,7 @@
 # Fitness Management System (DBMS Project)
 
+> A PostgreSQL-based academic database project for managing users, fitness plans, and trainers using DDL, triggers, and normalized schema design.
+
 📌 **Tech Stack:** PostgreSQL, SQL, PL/pgSQL  
 📁 **Academic Project:** DA-IICT, Summer 2025
 
